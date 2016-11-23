@@ -1,0 +1,18 @@
+D:\разработки\C#\Tanks\Tanks\bin\Debug\Tanks.exe.config
+D:\разработки\C#\Tanks\Tanks\bin\Debug\Tanks.exe
+D:\разработки\C#\Tanks\Tanks\bin\Debug\Tanks.pdb
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.Properties.Resources.resources
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.csproj.GenerateResource.Cache
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.exe
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.pdb
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.View.resources
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.csprojResolveAssemblyReference.cache
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.ControllerMainForm.resources
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.TrustInfo.xml
+D:\разработки\C#\Tanks\Tanks\bin\Debug\Tanks.exe.manifest
+D:\разработки\C#\Tanks\Tanks\bin\Debug\Tanks.application
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.exe.manifest
+D:\разработки\C#\Tanks\Tanks\obj\Debug\Tanks.application
+D:\учеба\3 семестр\ЯП\курсач\Код\Tanks\Tanks\bin\Debug\Tanks.exe.config
+D:\учеба\3 семестр\ЯП\курсач\Код\Tanks\Tanks\obj\Debug\Tanks.exe
+D:\учеба\3 семестр\ЯП\курсач\Код\Tanks\Tanks\obj\Debug\Tanks.pdb
